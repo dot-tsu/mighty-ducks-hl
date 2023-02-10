@@ -70,8 +70,27 @@ nav{
     border: solid #F8E02D;
     color: #F8E02D;
 }
+section{
+    margin-bottom: 3vw;
+}
 .logo{
-    width: 15%;
-    display:inline-block;
+    width: 15vw;
     margin: 4vw;
+    position: absolute
+}
+
+/* Articles */
+.md-article{
+    margin-left: 25vw;
+    margin-top: 1.5vw;
+    margin-right: 10vw;
+}
+article > h2, .mail > a{
+    color:#5BA39B;
+}
+
+/* Contact */
+.mail{
+    margin-top: 8vw;
+    font-size: 3vw;
 }
