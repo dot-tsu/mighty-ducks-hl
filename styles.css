@@ -18,16 +18,38 @@ black: #1E1811 */
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
 
-    /* Navbar */
+/* Header */
+header{
+    font-size: 2rem;
+    margin-left: 15px;
+}
+
+/* Navbar */
+nav{
+    position: absolute;
+    right: 0;
+    top: 5rem;
+    background: none;
+}
+
 .navbar-item {
-    padding: 4px;
+    padding: 10px 30px;
     background-color: #F8E02D;
     color: #1E1811;
     font-weight: bold;
     text-decoration: none;
+    font-size: 20px;
+    margin: 0 5px;
 }
+.navbar-item:hover {
+    background-color: #FAEB75;
+}
+
 .in{
     background-color: #5BA39B;
+}
+.in:hover{
+    background-color: #7CB6AF;
 }
 
 
