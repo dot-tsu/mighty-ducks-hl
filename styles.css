@@ -50,9 +50,11 @@ nav{
 
 .in{
     background-color: #5BA39B;
+    color:#F3F7F6
 }
 .in:hover{
     background-color: #7CB6AF;
+    color:#F3F7F6
 }
 
 
@@ -89,8 +91,18 @@ article > h2, .mail > a{
     color:#5BA39B;
 }
 
-/* Contact */
 .mail{
     margin-top: 8vw;
     font-size: 3vw;
+}
+
+/* Gallery */
+.gallery-container{
+    margin-left: 10vw;
+}
+.gallery-img{
+    border: 8px solid #C34C34;
+    display: inline-block;
+    margin: 2vw;
+    height: 16vw;
 }
