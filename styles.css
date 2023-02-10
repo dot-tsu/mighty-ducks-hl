@@ -29,3 +29,9 @@ black: #1E1811 */
 .in{
     background-color: #5BA39B;
 }
+
+
+/* Banner */
+.banner {
+    width: 100vw;
+}
