@@ -1,7 +1,19 @@
+/* Color pallete
+white: #F3F7F6
+green: #5BA39B
+red: #C34C34
+yellow: #F8E02D
+black: #1E1811 */
+
+
+
 /* Global styles */
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    
+
+    background-color: #1E1811;
+    color: #F3F7F6;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
