@@ -57,5 +57,13 @@ nav{
 
 /* Banner */
 .banner {
-    width: 99vw;
+    width: 100%;
+    display: block;
+}
+.section-title{
+    text-align: center;
+    font-size: 2vw;
+    padding: 0.75vw 2.25vw;
+    border: solid #F8E02D;
+    color: #F8E02D;
 }
