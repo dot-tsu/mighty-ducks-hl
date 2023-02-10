@@ -20,7 +20,9 @@ black: #1E1811 */
 
 /* Header */
 header{
-    font-size: 2rem;
+    font-size: 2vw;
+}
+.main-title {
     margin-left: 15px;
 }
 
@@ -28,18 +30,18 @@ header{
 nav{
     position: absolute;
     right: 0;
-    top: 5rem;
+    top: 5vw;
     background: none;
 }
 
 .navbar-item {
-    padding: 10px 30px;
+    padding: 0.75vw 2.25vw;
     background-color: #F8E02D;
     color: #1E1811;
     font-weight: bold;
     text-decoration: none;
-    font-size: 20px;
-    margin: 0 5px;
+    font-size: 1.25vw;
+    margin: 0 0.375vw;
 }
 .navbar-item:hover {
     background-color: #FAEB75;
@@ -55,5 +57,5 @@ nav{
 
 /* Banner */
 .banner {
-    width: 100vw;
+    width: 99vw;
 }
