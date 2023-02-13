@@ -94,6 +94,7 @@ nav{
     padding: 0.75vw 2.25vw;
     border: solid #F8E02D;
     color: #F8E02D;
+    border-radius: 2px;
 }
 section{
     margin-bottom: 3vw;
@@ -141,5 +142,9 @@ article > h2, .mail > a{
 footer{
     text-align: center;
     font-weight: bold;
+}
+footer > p{
+    background-color: #5BA39B;
+    color: #1E1811;
 }
 
