@@ -43,18 +43,24 @@ nav{
     text-decoration: none;
     font-size: 1.25vw;
     margin: 0 0.375vw;
+    transition-duration: 0.5s;
+    border-radius: 3px;
 }
 .navbar-item:hover {
-    background-color: #FAEB75;
+    transform: scale(1.1);
+    background-color: #5BA39B;
+    color:#F3F7F6;
 }
 
 .in{
     background-color: #5BA39B;
-    color:#F3F7F6
+    color:#F3F7F6;
+    border: 2px solid #F3F7F6;
 }
 .in:hover{
     background-color: #7CB6AF;
-    color:#F3F7F6
+    color:#1E1811;
+    border-color: #1E1811;
 }
 
 
