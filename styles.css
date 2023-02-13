@@ -97,6 +97,9 @@ article > h2, .mail > a{
 }
 
 /* Gallery */
+.gallery{
+    margin: 0;
+}
 .gallery-container{
     margin-left: 10vw;
 }
