@@ -102,11 +102,15 @@ article > h2, .mail > a{
 }
 .gallery-img{
     border: 8px solid #C34C34;
+    border-radius: 5px;
     display: inline-block;
-    margin: 2vw;
+    margin: 4vw 2vw;
     height: 16vw;
+    transition: transform 0.5s;
 }
-
+.gallery-img:hover{
+    transform: scale(1.3);
+}
 /* Footer */
 footer{
     text-align: center;
