@@ -102,29 +102,24 @@ nav{
     color: #F8E02D;
     border-radius: 2px;
 }
-section{
-    margin-bottom: 3vw;
+
+.section-container{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    align-items: center;
+}
+.section-container ul {
+    list-style: none;
+}
+.section-container li{
+    margin: 1rem;
+}
+.section-container h2 {
+    color: #5BA39B;
 }
 .logo{
     width: 15vw;
-    margin: 4vw;
-    position: absolute
-}
-
-/* Articles */
-.md-article{
-    margin-left: 25vw;
-    margin-top: 1.5vw;
-    margin-right: 10vw;
-}
-article > h2, .mail > a{
-    color:#5BA39B;
-}
-
-.mail{
-    margin-top: 8vw;
-    margin-bottom: 8vw;
-    font-size: 3vw;
+    margin: auto;
 }
 
 /* Gallery */
@@ -150,7 +145,7 @@ footer{
     text-align: center;
     font-weight: bold;
 }
-footer > p{
+footer p{
     background-color: #5BA39B;
     color: #1E1811;
 }
