@@ -140,6 +140,20 @@ nav{
 .gallery-img:hover{
     transform: scale(1.3);
 }
+
+/* Rules */
+.rules{
+    margin: 2vw;
+}
+.rules h2{
+    margin:0.5vw 0; 
+}
+.field-regulations-list h3{
+    color: #DD8E7E;
+}
+.field-rules {
+    list-style: lower-alpha;
+}
 /* Footer */
 footer{
     text-align: center;
