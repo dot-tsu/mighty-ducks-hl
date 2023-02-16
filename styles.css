@@ -106,12 +106,13 @@ nav {
   display: grid;
   grid-template-columns: 1fr 3fr;
   align-items: center;
+  margin: 1.5rem;
 }
 .section-container ul {
   list-style: none;
 }
 .section-container li {
-  margin: 1rem;
+  margin: 0.5rem;
 }
 .section-container h2 {
   color: #5ba39b;
@@ -139,7 +140,18 @@ nav {
 .gallery-img:hover {
   transform: scale(1.3);
 }
-
+/* Info */
+table{
+  text-align: center;
+}
+th{
+  color: #f8e02d;
+  border-bottom: 3px solid #c34c34;
+  border-radius: 2px;
+}
+td{
+  border-bottom:1px solid #dd8e7e;
+}
 /* Rules */
 .rules {
   margin: 2vw;
