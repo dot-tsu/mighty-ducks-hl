@@ -12,16 +12,26 @@ or
 
 Clone the GitHub repository on your local computer with:
 
-    git clone https://github.com/tu_usuario/mighty-ducks.git
+    git clone https://github.com/tsuramii/MDHL_Di-Marco.git
 
 then open index.html
  
 ## Screenshots
 
 ![first screenshot](screenshots/Screenshot_1.png)
+
+***
+
 ![second screenshot](screenshots/Screenshot_2.png)
+
+***
+
 ![third screenshot](screenshots/Screenshot_3.png)
+
+***
+
 ![fourth screenshot](screenshots/Screenshot_4.png)
+
 
 ## License
 
