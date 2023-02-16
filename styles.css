@@ -50,7 +50,7 @@ nav {
 }
 .navbar-items {
   display: grid;
-  grid-template-columns: repeat(5, auto);
+  grid-template-columns: repeat(6, auto);
   justify-content: end;
   list-style: none;
 }
@@ -60,8 +60,8 @@ nav {
   color: #1e1811;
   font-weight: bold;
   text-decoration: none;
-  font-size: 1.3vw;
-  margin: 0.5vw;
+  font-size: 1vw;
+  margin: 0.3vw;
   transition-duration: 0.5s;
   border-radius: 3px;
 }
