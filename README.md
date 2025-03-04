@@ -1,21 +1,14 @@
-# 🦆 Mighty Ducks Hockey League Page 🏑
-This is a web development project for the MindHub bootcamp.
-It consists of a website for the Mighty Ducks field hockey league,
-which has 6 HTML pages: index, contact, about, info, registration and rules.
-The page uses only HTML and pure CSS for its design and functionality.
+🦆 Mighty Ducks Hockey League Page 🏑
+This was my first project in the MindHub bootcamp, serving as an introduction to web development. It was built using only HTML and pure CSS, without JavaScript or frameworks.
+
+The website consists of six pages: index, contact, about, info, registration, and rules, all designed with a simple yet functional layout.
+
+⚠️ Status: No further updates or improvements will be made. The project is now archived for reference.
 
 ## Installation
 
 Download the zip file of the project, unzip it and open index.html
 
-or 
-
-Clone the GitHub repository on your local computer with:
-
-    git clone https://github.com/tsuramii/MDHL_Di-Marco.git
-
-then open index.html
- 
 ## Screenshots
 
 ![first screenshot](screenshots/Screenshot_1.png)
